@@ -92,7 +92,29 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 - Original color image is displayed  
 - Histogram of B, G, R channels is plotted  
 - Enhanced image after HSV-based equalization is displayed  
-- Histogram of enhanced image shows better intensity distribution  
+- Histogram of enhanced image shows better intensity distribution
+
+<img width="692" height="493" alt="image" src="https://github.com/user-attachments/assets/f528f32f-4f8a-447a-a80a-e37d1b0373e7" />
+
+
+<img width="733" height="535" alt="image" src="https://github.com/user-attachments/assets/392b773b-8299-4f44-9b98-688ad07fc8d1" />
+
+  
+<img width="720" height="542" alt="image" src="https://github.com/user-attachments/assets/d6d2328d-2337-4f9b-999a-b6edb92aafa6" />
+
+<img width="713" height="488" alt="image" src="https://github.com/user-attachments/assets/22f04dfe-6397-4bc4-b498-5f2589b2d1e5" />
+
+<img width="705" height="485" alt="image" src="https://github.com/user-attachments/assets/edb6a7e2-46ad-4633-a54b-8a5bda42dd84" />
+
+<img width="731" height="538" alt="image" src="https://github.com/user-attachments/assets/3ab5b8bb-a1ee-4631-9b7e-c3e78394707e" />
+
+<img width="1373" height="392" alt="image" src="https://github.com/user-attachments/assets/0c3bef12-a8a7-4c2b-8c00-4f536e6a70b1" />
+
+<img width="1386" height="415" alt="image" src="https://github.com/user-attachments/assets/5f60c00b-b206-43ea-90b1-99f070fb3c52" />
+
+
+
+
 
 ---
 
