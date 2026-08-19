@@ -72,10 +72,9 @@ Display original color image, histogram, enhanced image, and enhanced histogram 
 ## Program
 
 ### Developed By:
-**Name:** ____________________________  
+**Name: Vignesh S**  
 
-### Register No:
-____________________________  
+### Register No: 212224110061
 
 ---
 
